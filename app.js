@@ -1,6 +1,6 @@
-const API_KEY = "6a4d0b9cc11547a9af21d0da77643d74";
+//const API_KEY = "6a4d0b9cc11547a9af21d0da77643d74";
 
-// const API_KEY = "1d3a0eefa97b499d8fbc4ee93eeb40b7";
+ const API_KEY = "1d3a0eefa97b499d8fbc4ee93eeb40b7";
 const url = "https://newsapi.org/v2/everything?q=";
 
 window.addEventListener("load", () => {
